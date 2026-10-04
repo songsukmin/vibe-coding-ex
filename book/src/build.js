@@ -33,7 +33,7 @@ function box(lines, fill, borderColor, label) {
   const b = border(borderColor);
   return new Table({
     width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: [CONTENT_W],
-    rows: [new TableRow({ children: [new TableCell({
+    rows: [new TableRow({ cantSplit: true, children: [new TableCell({
       width: { size: CONTENT_W, type: WidthType.DXA },
       shading: { type: ShadingType.CLEAR, fill, color: "auto" },
       borders: { top: b, bottom: b, left: b, right: b },

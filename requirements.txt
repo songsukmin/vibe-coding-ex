@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+mediapipe==1.1.1
+opencv-python==5.0.0.93
+silero-vad[audio]==6.2.3

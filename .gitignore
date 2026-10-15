@@ -2,3 +2,4 @@ node_modules/
 .venv/
 models/
 output/
+__pycache__/

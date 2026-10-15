@@ -1,0 +1,26 @@
+{
+  "name": "vibe-coding-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songsukmin/vibe-coding-ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songsukmin/vibe-coding-ex/issues"
+  },
+  "homepage": "https://github.com/songsukmin/vibe-coding-ex#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.535",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.535"
+  }
+}

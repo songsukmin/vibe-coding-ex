@@ -19,6 +19,7 @@
   "homepage": "https://github.com/songsukmin/vibe-coding-ex#readme",
   "dependencies": {
     "@remotion/cli": "^4.0.544",
+    "gsap": "^3.15.1",
     "hyperframes": "^0.9.56",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
